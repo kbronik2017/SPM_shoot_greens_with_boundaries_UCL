@@ -1,4 +1,4 @@
-# Shooting with sliding boundary
+# Shooting with sliding boundary (Kevin Bronik)
 
 
  <br>
